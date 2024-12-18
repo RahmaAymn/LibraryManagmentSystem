@@ -1,0 +1,9 @@
+BOOK:test,hik,0
+RESERVED_USERS:test,ss
+BOOK:kungfupanda,cartoon,5
+RESERVED_USERS:kungfupanda
+USER:ss,BORROWED:kungfupanda,2024-12-24
+
+USER:le,
+USER:admin,
+USER:jira,

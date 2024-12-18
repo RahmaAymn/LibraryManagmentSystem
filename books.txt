@@ -1,0 +1,3 @@
+test,hik,0
+kungfupanda,cartoon,5
+koko,ki,2
